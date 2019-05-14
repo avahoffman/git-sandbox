@@ -2,37 +2,37 @@
 _____
 ## A place for workshopping! 
   
-#### Get started
+#### 1. Get started
 
 You will need a GitHub account and git command line tools
   
 https://git-scm.com/book/en/v1/Getting-Started-Installing-Git  
 https://git-scm.com/book/en/v1/Getting-Started-First-Time-Git-Setup
 
-#### Get your first repository
+#### 2. Get your first repository
 
 `git clone my-repo-url`
 
-#### Create a branch
+#### 3. Create a branch
 
 `git branch my-branch-name`  
 `git checkout my-branch-name`
 
-#### Make some changes to helloworld.py
+#### 4. Make some changes to helloworld.py
 
-#### Push your branch to remote
+#### 5. Push your branch to remote
 
-`git add .`
-`git commit -m 'first commit for my-branch-name'`
-`git push`
+`git add .`  
+`git commit -m 'first commit for my-branch-name'`  
+`git push`  
 
-#### Open a Pull request for your branch
+#### 6. Open a Pull request for your branch
 
-#### Connect Pull request to an issue
+#### 7. Connect Pull request to an issue
 
-#### Review and merge the Pull request
+#### 8. Review and merge the Pull request
 
-#### Essentials
+#### 9. Essentials
 
 `git help`  
 `git status`  
