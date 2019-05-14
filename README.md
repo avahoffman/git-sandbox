@@ -18,15 +18,15 @@ https://git-scm.com/book/en/v1/Getting-Started-First-Time-Git-Setup
 `git branch my-branch-name`  
 `git checkout my-branch-name`
 
-#### Make some changes
+#### Make some changes to helloworld.py
 
-#### Push the branch to remote
+#### Push your branch to remote
 
 `git add .`
 `git commit -m 'first commit for my-branch-name'`
 `git push`
 
-#### Open a Pull request
+#### Open a Pull request for your branch
 
 #### Connect Pull request to an issue
 
@@ -37,7 +37,8 @@ https://git-scm.com/book/en/v1/Getting-Started-First-Time-Git-Setup
 `git help`  
 `git status`  
   
-### Ideas to get started with git:
+_____
+### Improving your git skills:
 
 * [ ] Make a quick website: https://pages.github.com/ and host the most recent version of your resume.
 * [ ] Host some code you're working on (keep your data private using .gitignore).
